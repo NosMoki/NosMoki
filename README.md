@@ -1,23 +1,21 @@
-## Hi
-
-<!--
-Working on mostly normal stuff, dont have time to put more stuff hear for now but if you need to contact me my email is: NosMoki@pm.me
-
-PGP key:
-xjMEaMg5ohYJKwYBBAHaRw8BAQdAqMu3vQe+3JQz/pxo5sN9AmUVBJy4xoZY
-ABxugby6+TTNJUthaUZyaWhhZ2VuQHBtLm1lIDxLYWlGcmloYWdlbkBwbS5t
-ZT7CwBEEExYKAIMFgmjIOaIDCwkHCRCAXvkCD3B2w0UUAAAAAAAcACBzYWx0
-QG5vdGF0aW9ucy5vcGVucGdwanMub3Jn0sEn9Y9BVC3wxqjJmz48qd6ccSkg
-loRUal/BsKbnj9MDFQoIBBYAAgECGQECmwMCHgEWIQQn4WxxYGBfNzU+ZeyA
-XvkCD3B2wwAAP+YBAPWaE6OhqIwWn+SYL4PAs8dLpatlDaQyDHnUjW8k87NH
-AQCssU2D3WRjwSswbJQeUj5giGqjq6H1yR8nackcM8loD844BGjIOaISCisG
-AQQBl1UBBQEBB0Ainj3m1mE7pOYuOsnt0/HeF2kY2JYhQ4P3RRzN0IGjAQMB
-CAfCvgQYFgoAcAWCaMg5ogkQgF75Ag9wdsNFFAAAAAAAHAAgc2FsdEBub3Rh
-dGlvbnMub3BlbnBncGpzLm9yZ87h26z7uQEFE73b+ReD+EM0ezHVOwzohlSf
-N+nnon2GApsMFiEEJ+FscWBgXzc1PmXsgF75Ag9wdsMAAG49AP9xhSsaYCDq
-dTz25zz+z/6pT/HzPzyhKF94DfjEp9SkzwD/VsbTHPMUVDw/HGyy+1kk0z3Y
-khX/j3SMrOCuU5jJsgg=
-=d5c0
+I dont have time to put more stuff here for now, but if you need to contact me my email is: NosMoki@pm.me
 
 
--->
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+xjMEaXjyiBYJKwYBBAHaRw8BAQdAWMOp1KUp+JAZLAPfd2FK6kcaGd296ho2
+YuKZn6d8n07NJU5vc01va2lAcHJvdG9uLm1lIDxOb3NNb2tpQHByb3Rvbi5t
+ZT7CwBEEExYKAIMFgml48ogDCwkHCRBFW1wcEw65gkUUAAAAAAAcACBzYWx0
+QG5vdGF0aW9ucy5vcGVucGdwanMub3JnYhLoftohYygjyeCE2ar6iR8dtFrh
+y5gmLgko02yezEkDFQoIBBYAAgECGQECmwMCHgEWIQRJC0ag7qxn3v34UCxF
+W1wcEw65ggAAZWsA/RjO+RS5Df8n9K3TFIj22mcE2ikC4VGZo69B30sqN8MH
+AQCVeFZzzdF3kOK+svB7D8iuEt4XZjR6jBqNdah44l1aDc44BGl48ogSCisG
+AQQBl1UBBQEBB0BNW+PJvjeibImEFkl7yNVmC6agGBCKBGDVFoBC9NNCCgMB
+CAfCvgQYFgoAcAWCaXjyiAkQRVtcHBMOuYJFFAAAAAAAHAAgc2FsdEBub3Rh
+dGlvbnMub3BlbnBncGpzLm9yZx0pLC8Oi7/xb9eQW2CB3CJXSiRKusXc4l0l
+ZgAQF12AApsMFiEESQtGoO6sZ979+FAsRVtcHBMOuYIAAHhsAP9j62gxUSRf
+TeuYLsP5kV6CyAPqWgH0QFDE2g8+XSvbxwD+McEFZWd3Ev79vf9WZNyyb1Ej
+ONhkU43/gzGeXsrd7g4=
+=Y2hC
+
+-----END PGP PUBLIC KEY BLOCK-----

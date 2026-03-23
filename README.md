@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi
 
 <!--
-**NosMoki/NosMoki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Working on mostly normal stuff, dont have time to put more stuff hear for now but if you need to contact me my email is: NosMoki@pm.me
 
-Here are some ideas to get you started:
+PGP key:
+xjMEaMg5ohYJKwYBBAHaRw8BAQdAqMu3vQe+3JQz/pxo5sN9AmUVBJy4xoZY
+ABxugby6+TTNJUthaUZyaWhhZ2VuQHBtLm1lIDxLYWlGcmloYWdlbkBwbS5t
+ZT7CwBEEExYKAIMFgmjIOaIDCwkHCRCAXvkCD3B2w0UUAAAAAAAcACBzYWx0
+QG5vdGF0aW9ucy5vcGVucGdwanMub3Jn0sEn9Y9BVC3wxqjJmz48qd6ccSkg
+loRUal/BsKbnj9MDFQoIBBYAAgECGQECmwMCHgEWIQQn4WxxYGBfNzU+ZeyA
+XvkCD3B2wwAAP+YBAPWaE6OhqIwWn+SYL4PAs8dLpatlDaQyDHnUjW8k87NH
+AQCssU2D3WRjwSswbJQeUj5giGqjq6H1yR8nackcM8loD844BGjIOaISCisG
+AQQBl1UBBQEBB0Ainj3m1mE7pOYuOsnt0/HeF2kY2JYhQ4P3RRzN0IGjAQMB
+CAfCvgQYFgoAcAWCaMg5ogkQgF75Ag9wdsNFFAAAAAAAHAAgc2FsdEBub3Rh
+dGlvbnMub3BlbnBncGpzLm9yZ87h26z7uQEFE73b+ReD+EM0ezHVOwzohlSf
+N+nnon2GApsMFiEEJ+FscWBgXzc1PmXsgF75Ag9wdsMAAG49AP9xhSsaYCDq
+dTz25zz+z/6pT/HzPzyhKF94DfjEp9SkzwD/VsbTHPMUVDw/HGyy+1kk0z3Y
+khX/j3SMrOCuU5jJsgg=
+=d5c0
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->

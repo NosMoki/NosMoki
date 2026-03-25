@@ -1,4 +1,8 @@
-# Hi I am moki I make cool stuff and post it here.
+# Hi 
+
+Hi this is my github, altho I am a dev most of my work is privat this is partuly cuz I am not very public and I dont do alot outside of my work. here I post just as much too my blog I have here and photos. Join me and explore cyberspace with me and look at what is public, most of it is un-finished but you may find a use for it[^1].
+
+[^1]: If you use any of my work please credit me regardless of the licence it's the right kind thing too do.
 
 
 

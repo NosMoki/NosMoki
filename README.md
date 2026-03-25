@@ -1,8 +1,23 @@
-I dont have time to put more stuff here for now, but if you need to contact me my email is: NosMoki@pm.me
+# Hi I am moki i make cool stuff and post it here.
 
 
------BEGIN PGP PUBLIC KEY BLOCK-----
 
+## Contact info: 
+
+**IMPORTANT**, please note that I have attached a PGP public key this is the way you can identify me online as I prefer to remain otherwise anonymous, **please verify keys before exchanging or providing important/sensative informaton with me.** 
+
+
+### Email: 
+
+```
+NosMoki@pm.me 
+```
+
+
+
+### PGP PUBLIC KEY: 
+
+```
 xjMEaXjyiBYJKwYBBAHaRw8BAQdAWMOp1KUp+JAZLAPfd2FK6kcaGd296ho2
 YuKZn6d8n07NJU5vc01va2lAcHJvdG9uLm1lIDxOb3NNb2tpQHByb3Rvbi5t
 ZT7CwBEEExYKAIMFgml48ogDCwkHCRBFW1wcEw65gkUUAAAAAAAcACBzYWx0
@@ -17,5 +32,4 @@ ZgAQF12AApsMFiEESQtGoO6sZ979+FAsRVtcHBMOuYIAAHhsAP9j62gxUSRf
 TeuYLsP5kV6CyAPqWgH0QFDE2g8+XSvbxwD+McEFZWd3Ev79vf9WZNyyb1Ej
 ONhkU43/gzGeXsrd7g4=
 =Y2hC
-
------END PGP PUBLIC KEY BLOCK-----
+```

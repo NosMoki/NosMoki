@@ -1,4 +1,4 @@
-![image bit glitch](https://github.com/user-attachments/assets/856efec7-6d91-4d47-9753-86be6906227b) [^1]
+![image bit glitch](https://github.com/user-attachments/assets/22c2a6f6-8866-4adf-884e-09ffeca6902c)
 [^2]: All photos seen in conjunction with my github are exclusively under my copyright and require expressed permission for use (Unless otherwise stated), including for AI. Email me for permission; I am normally happy to give it.
 
 

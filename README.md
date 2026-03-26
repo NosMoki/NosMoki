@@ -1,17 +1,15 @@
+![image bit glitch](https://github.com/user-attachments/assets/856efec7-6d91-4d47-9753-86be6906227b) [^1]
+[^2]: All photos seen in conjunction with my github are exclusively under my copyright and require expressed permission for use (Unless otherwise stated), including for AI. Email me for permission; I am normally happy to give it.
+
 # Hi 
 
-Hi this is my github, altho I am a dev most of my work is privat this is partuly cuz I am not very public and I dont do alot outside of my work. here I post just as much too my blog I have here and photos I edit with code editors. Join me and explore cyberspace with me and look at what is public, most of it is un-finished but you may find a use for it[^1].
+Hi,, this is my GitHub. Although I am a dev, most of my work is private. This is partly because I am not very public and I don't do a lot outside of my work. Here I post just as much to my blog as I have here and photos I edit with code editors. Join me and explore cyberspace with me and look at what is public, most of it is un-finished but you may find a use for it[^2].
 
-[^1]: If you use any of my work please credit me regardless of the licence it's the right kind thing too do.
-![image bit glitch](https://github.com/user-attachments/assets/856efec7-6d91-4d47-9753-86be6906227b)
+[^1]: If you use any of my work, please credit me regardless of the license; it's the right kind of thing to do.
 
+## Contact info:
 
-
-## Contact info: 
-
-**IMPORTANT**, please note that I have attached a PGP public key this is the way you can identify me online as I prefer to remain otherwise anonymous, **please verify keys before exchanging or providing important/sensative informaton with me.** 
-
-
+IMPORTANT: Please note that I have attached a PGP public key. This is the way you can identify me online, as I prefer to remain otherwise anonymous. Please verify keys before exchanging or providing important/sensitive information with me. 
 ### Email: 
 
 ```

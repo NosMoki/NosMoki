@@ -1,4 +1,4 @@
-![image bit glitch](https://github.com/user-attachments/assets/22c2a6f6-8866-4adf-884e-09ffeca6902c)
+<img width="2868" height="1742" alt="2025年 東京でくらししている2しゅうめ" src="https://github.com/user-attachments/assets/8db84d66-e720-4183-bb3b-78cd3ba3acb4" />
 [^2]: All photos seen in conjunction with my github are exclusively under my copyright and require expressed permission for use (Unless otherwise stated), including for AI. Email me for permission; I am normally happy to give it.
 
 
@@ -14,6 +14,7 @@ IMPORTANT: Please note that I have attached a PGP public key. This is the way yo
 ```
 NosMoki@pm.me 
 ```
+
 
 
 

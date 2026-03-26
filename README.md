@@ -3,7 +3,7 @@
 
 # Hi 
 
-Hi,, this is my GitHub. Although I am a dev, most of my work is private. This is partly because I am not very public and I don't do a lot outside of my work. Here I post just as much to my blog as I have here and photos I edit with code editors. Join me and explore cyberspace with me and look at what is public, most of it is un-finished but you may find a use for it[^2].
+Hi, this is my GitHub. Although I am a dev, most of my work is private. This is partly because I am not very public and I don't do a lot outside of my work. Here I post just as much to my blog as I have here and photos I edit with code editors. Join me and explore cyberspace with me and look at what is public, most of it is un-finished but you may find a use for it[^2].
 
 [^1]: If you use any of my work, please credit me regardless of the license; it's the right kind of thing to do.
 

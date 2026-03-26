@@ -1,7 +1,6 @@
 ![image bit glitch](https://github.com/user-attachments/assets/856efec7-6d91-4d47-9753-86be6906227b) [^1]
 [^2]: All photos seen in conjunction with my github are exclusively under my copyright and require expressed permission for use (Unless otherwise stated), including for AI. Email me for permission; I am normally happy to give it.
 
-# Hi 
 
 Hi, this is my GitHub. Although I am a dev, most of my work is private. This is partly because I am not very public and I don't do a lot outside of my work. Here I post just as much to my blog and photos that I edit with code editors. Join me and explore cyberspace with me and look at what is public, most of it is un-finished but you may find a use for it[^2].
 

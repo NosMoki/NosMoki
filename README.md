@@ -1,5 +1,5 @@
-<img width="2868" height="1742" alt="2025年 東京でくらししている2しゅうめ" src="https://github.com/user-attachments/assets/8db84d66-e720-4183-bb3b-78cd3ba3acb4" />
- All photos seen in conjunction with my github are exclusively under my copyright and require expressed permission for use (Unless otherwise stated), including for AI. Email me for permission; I am normally happy to give it.
+<img width="2868" height="1742" alt="2025年 東京でくらししている2しゅうめ" src="https://github.com/user-attachments/assets/8db84d66-e720-4183-bb3b-78cd3ba3acb4" /> [^2]
+ [^2]:All photos seen in conjunction with my github are exclusively under my copyright and require expressed permission for use (Unless otherwise stated), including for AI. Email me for permission; I am normally happy to give it.
 
 
 Hi, this is my GitHub. Although I am a dev, most of my work is private. This is partly because I am not very public and I don't do a lot of coding outside of my work. Here I post just as much to my blog and photos that I edit with code editors. Join me and explore cyberspace with me and look at what is public, most of it is un-finished but you may find a use for it[^1].

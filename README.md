@@ -8,7 +8,7 @@ Hi, this is my GitHub. Although I am a dev, most of my work is private. This is 
 
 ## Contact info:
 
-IMPORTANT: Please note that I have attached a PGP public key. This is the way you can identify me online, as I prefer to remain otherwise anonymous. Please verify keys before exchanging or providing important/sensitive information with me. 
+IMPORTANT: Please note that I have attached a PGP public key. This is the way you can identify me online, as I prefer to remain otherwise anonymous, I hope you can respect that. Please verify keys before exchanging or providing important/sensitive information with me. 
 ### Email: 
 
 ```

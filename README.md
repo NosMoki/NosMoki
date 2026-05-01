@@ -1,3 +1,4 @@
+
 <img width="2868" height="1742" alt="2025年 東京でくらししている2しゅうめ" src="https://github.com/user-attachments/assets/8db84d66-e720-4183-bb3b-78cd3ba3acb4" /> [^2]
  [^2]:All photos seen in conjunction with my github are exclusively under my copyright and require expressed permission for use (Unless otherwise stated), including for AI. Email me for permission; I am normally happy to give it.
 
@@ -36,3 +37,4 @@ TeuYLsP5kV6CyAPqWgH0QFDE2g8+XSvbxwD+McEFZWd3Ev79vf9WZNyyb1Ej
 ONhkU43/gzGeXsrd7g4=
 =Y2hC
 ```
+<img width="4032" height="3024" alt="image-visual" src="https://github.com/user-attachments/assets/d91609d0-dc8f-487d-bdcc-f557a3d2e1ea" />
